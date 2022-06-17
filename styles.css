@@ -1,0 +1,9 @@
+.black{
+color:red;
+}
+.App {
+    text-align: center;
+  }
+input[type="submit"]{
+    background-color: red;
+}
